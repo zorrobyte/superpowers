@@ -1,20 +1,10 @@
 {
   "name": "superpowers",
-  "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-  "version": "6.4.2",
-  "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
-  },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "description": "Lean fork of Superpowers: six short skills for brainstorming, planning, building, debugging, verifying and reviewing. No hooks.",
+  "version": "6.4.2-lean.1",
+  "author": { "name": "Ross Fisher (fork of Jesse Vincent's Superpowers)" },
+  "homepage": "https://github.com/zorrobyte/superpowers",
+  "repository": "https://github.com/zorrobyte/superpowers",
   "license": "MIT",
-  "keywords": [
-    "skills",
-    "tdd",
-    "debugging",
-    "collaboration",
-    "best-practices",
-    "workflows"
-  ]
+  "keywords": ["skills", "brainstorming", "debugging", "workflows"]
 }
